@@ -243,4 +243,5 @@ jQuery(function($) {
         // On page load
         stickyToggle(sticky, stickyWrapper, $(window));
     });
+
 });
